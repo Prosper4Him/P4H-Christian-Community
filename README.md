@@ -1,7 +1,7 @@
 P4H Christian Community
 =======================
 
-- The P4H Project -
+- The P4H Project
 
 This is where you come to see what's happening at P4H in real time.
 
